@@ -12,9 +12,9 @@
 
     ![](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Circuit%20Wiring/1-%20Robot%20Arm%20Circuit%20Wiring.PNG)
     
-2. Program the circuit using c++ to set the angles to 90 degree [see the code](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Code/Move%20servo%20to%2090%20degree.ino)
+2. Program the circuit using c++ to set the angles to 90 degree ([see the code](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Code/Move%20servo%20to%2090%20degree.ino))
 
-3. Now, controlling the motors using potentiometer [see the code](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Code/control_5_servo_motor_with_potentiometer_1.ino)
+3. Now, controlling the motors using potentiometer ([see the code](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Code/control_5_servo_motor_with_potentiometer_1.ino))
 
    * Normal angle situation:
 
