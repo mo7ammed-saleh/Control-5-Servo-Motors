@@ -17,7 +17,7 @@
 3. Now, controlling the motors using potentiometer [see the code](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Code/control_5_servo_motor_with_potentiometer_1.ino)
 
    * Normal angle situation:
-      ![](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Code/control_5_servo_motor_with_potentiometer_1.ino)
+      ![](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Circuit%20Wiring/2-%20Circuit%20Wiring%20with%20potentiometer.PNG)
       
    * Diffrent angle:
       ![](https://github.com/mo7ammed-saleh/Control_5_Servo_Motors/blob/main/Circuit%20Wiring/3-%20Different%20Angles.PNG)
