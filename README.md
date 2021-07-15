@@ -2,7 +2,7 @@
 **This Repository will explain my first task in Electronics and Electrical Power department at [SMART METHODS](https://github.com/smart-methods) summer training.**
 
 ## Task Requirements: 
-  - Design the robot arm motorss circuit daigram (MG995 Servo Motor).
+  - Design the robot arm motors circuit daigram (MG995 Servo Motor).
   - Set the motors degree to 90.
   - Control the motors using potentiometer.
 
